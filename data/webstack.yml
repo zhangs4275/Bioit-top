@@ -31,11 +31,6 @@
       logo: l/lark-suite.webp
       url: https://shenweiyan.sg.larksuite.com/next/messenger
       description: 先进企业协作与管理平台。
-    - title: 关注我们
-      logo: q/qrcode.png
-      url: https://www.bioitee.com
-      qrcode: https://res.bioit.top/logos/qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
 
 - taxonomy: 常用推荐
   icon: far fa-star
